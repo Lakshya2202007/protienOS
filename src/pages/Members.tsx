@@ -11,12 +11,12 @@ const Members = () => {
 
   // Protein Squad member data
   const squadMembers = [
-    { number: 1, name: "Lakshya Agarwal", quote: "Don't mess with my ribosomes 😎" },
-    { number: 2, name: "Vansh Bhandari", quote: "ATP is my energy drink 💥" },
-    { number: 3, name: "Aarav Rao", quote: "Living that double helix life 🧬✨" },
-    { number: 4, name: "Yuvraj Singh", quote: "Molecules making magic. 🔬✨" },
-    { number: 5, name: "AadityaRaj Bhatia", quote: "Photosynthesis is my superpower. 🌞🌱" },
-    { number: 6, name: "Vaktresh Mishra", quote: "Microbe hunter, macro results. 🔬🦠" },
+    { number: 1, name: "Lakshya Agarwal", quote: "RA2411026010229" },
+    { number: 2, name: "Vansh Bhandari", quote: "RA2411026010252" },
+    { number: 3, name: "Aarav Rao", quote: "RA2411026010256" },
+    { number: 4, name: "Yuvraj Singh", quote: "RA2411026010257" },
+    { number: 5, name: "AadityaRaj Bhatia", quote: "RA2411026010275" },
+    { number: 6, name: "Vaktresh Mishra", quote: "RA2411026010227" },
   ];
 
   // Faculty data
