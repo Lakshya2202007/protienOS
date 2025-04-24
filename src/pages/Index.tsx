@@ -111,7 +111,7 @@ const Index = () => {
               </p>
               
               <div className="h-80 sm:h-96 md:h-[28rem] w-full relative rounded-lg overflow-hidden border border-primary/10">
-                <iframe src="/main.mp4" height="100%" width="100%"></iframe>
+                <iframe src="/main.mp4" height="100%" width="100%" sandbox></iframe>
               </div>
               
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 pt-4">
